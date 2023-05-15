@@ -1,6 +1,6 @@
 # Terraform-code-examples
 
-Чтобы сгенерировать ключ:
+Чтобы сгенерировать ключ key.json:
 
 yc iam key create --service-account-name $YOUR_SERVICE_ACCOUNT_NAME --output key.json
 
